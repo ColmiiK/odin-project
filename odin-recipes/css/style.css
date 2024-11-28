@@ -1,0 +1,62 @@
+* {
+    font-size: 24px;
+    font-family: "Helvetica";
+    background-color: lightblue;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    border: 5px solid black;
+    margin: 50px 300px;
+    padding: 20px 0px;
+    border-radius: 100px;
+    background-color: pink;
+}
+h2 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    background-color: black;
+    border: 3px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 350px;
+}
+p {
+    font-weight: bold;
+    padding: 20px;
+    margin: 10px;
+}
+img {
+    height: 400px;
+    width: auto;
+    display: block;
+    margin: 0px 200px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+.recipes {
+    text-align: center;
+    font-size: 24px;
+}
+.guac, .maca {
+
+    border: 2px solid black;
+    border-radius: 100px;
+    display: block;
+    margin: 5px 300px;
+    text-decoration: none;
+}
+.guac {
+    background-color: lightgreen;
+}
+.maca {
+    background-color: lightyellow;
+}
+
+ul, ol {
+    padding: 10px;
+    margin: 0px 200px;
+    font-size: 20px;
+}
